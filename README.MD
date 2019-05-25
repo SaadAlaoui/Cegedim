@@ -36,18 +36,7 @@ Frontend repository : [https://github.com/SaadAlaoui/Cegedim-frontend](https://g
 
 **Architecture de la solution :**
 
-
-
-
-```mermaid
-sequenceDiagram
-Frontend -> Backend: Request data
-Backend -> typicode.com/posts: Request data
-Backend --> typicode.com/posts: Fetch data
-Backend -->> Backend : Order posts by title
-Frontend --> Backend: Fetch data
-```
-
+(https://imagesia.com/images/2019/05/25/diagramme.png)
 
 
 **DEMO**
