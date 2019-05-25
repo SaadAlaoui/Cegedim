@@ -37,10 +37,11 @@ Frontend :
 
 3 - Ouvrez l'adresse : http://localhost:8080/ sur votre navigateur
 
-**Architecture de la solution :**
+**Schema :**
 ![enter image description here](https://imagesia.com/images/2019/05/25/diagramme.png)
 
 **DEMO**
+
 Backend : 
 ![enter image description here](https://imagesia.com/images/2019/05/25/backEnd.png)
 
