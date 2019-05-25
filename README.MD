@@ -16,7 +16,7 @@ Backend :
  - **Git**
  - **Maven**
 
-    Backend repository : [https://github.com/SaadAlaoui/Cegedim-backend](https://github.com/SaadAlaoui/Cegedim-frontend)
+    Backend repository : [https://github.com/SaadAlaoui/Cegedim-backend](https://github.com/SaadAlaoui/Cegedim-backend)
 
 Frontend :
 -   **ECMAScript 6**
